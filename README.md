@@ -80,3 +80,20 @@ network-investigation-lab/
 ## Status
 
 Project in progress.
+
+## Project Progress
+
+- [x] Phase 1 — Network baseline, ARP, and ICMP
+- [ ] Phase 2 — TCP and HTTP
+- [ ] Phase 3 — Open and closed TCP ports
+- [ ] Phase 4 — DNS and UDP
+- [ ] Phase 5 — SSH
+- [ ] Phase 6 — TLS and HTTPS
+- [ ] Phase 7 — Routing and gateway analysis
+- [ ] Phase 8 — Basic scanning behavior
+- [ ] Phase 9 — Periodic connection analysis
+- [ ] Phase 10 — Final PCAP investigation
+
+## Documentation
+
+- [Phase 1 — Network Baseline, ARP, and ICMP](notes/phase1-network-baseline-arp-icmp.md)
