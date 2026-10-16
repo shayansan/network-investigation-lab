@@ -84,7 +84,7 @@ Project in progress.
 ## Project Progress
 
 - [x] Phase 1 — Network baseline, ARP, and ICMP
-- [ ] Phase 2 — TCP and HTTP
+- [x] Phase 2 — TCP and HTTP
 - [ ] Phase 3 — Open and closed TCP ports
 - [ ] Phase 4 — DNS and UDP
 - [ ] Phase 5 — SSH
