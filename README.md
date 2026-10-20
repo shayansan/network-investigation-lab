@@ -86,7 +86,7 @@ Project in progress.
 - [x] Phase 1 — Network baseline, ARP, and ICMP
 - [x] Phase 2 — TCP and HTTP
 - [x] Phase 3 — Open and closed TCP ports
-- [ ] Phase 4 — DNS and UDP
+- [x] Phase 4 — DNS and UDP
 - [ ] Phase 5 — SSH
 - [ ] Phase 6 — TLS and HTTPS
 - [ ] Phase 7 — Routing and gateway analysis
