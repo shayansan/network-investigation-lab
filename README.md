@@ -90,7 +90,7 @@ Project in progress.
 - [x] Phase 5 — SSH
 - [x] Phase 6 — TLS and HTTPS
 - [x] Phase 7 — Routing and gateway analysis
-- [ ] Phase 8 — Basic scanning behavior
+- [x] Phase 8 — Basic scanning behavior
 - [ ] Phase 9 — Periodic connection analysis
 - [ ] Phase 10 — Final PCAP investigation
 
