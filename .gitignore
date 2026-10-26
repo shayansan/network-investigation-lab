@@ -2,3 +2,5 @@
 Thumbs.db
 *.tmp
 *.log
+certs/lab-key.pem
+certs/lab-cert.pem
