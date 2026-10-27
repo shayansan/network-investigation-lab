@@ -92,7 +92,7 @@ Project in progress.
 - [x] Phase 7 — Routing and gateway analysis
 - [x] Phase 8 — Basic scanning behavior
 - [x] Phase 9 — Periodic connection analysis
-- [ ] Phase 10 — Final PCAP investigation
+- [x] Phase 10 — Final PCAP investigation
 
 ## Documentation
 
