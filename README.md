@@ -91,7 +91,7 @@ Project in progress.
 - [x] Phase 6 — TLS and HTTPS
 - [x] Phase 7 — Routing and gateway analysis
 - [x] Phase 8 — Basic scanning behavior
-- [ ] Phase 9 — Periodic connection analysis
+- [x] Phase 9 — Periodic connection analysis
 - [ ] Phase 10 — Final PCAP investigation
 
 ## Documentation
